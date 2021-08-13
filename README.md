@@ -1,9 +1,9 @@
 # Hi, I'm Ayush
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
 
-[![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/AyushShahh/github-readme-stats)
+![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark)](https://github.com/AyushShahh/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark)
 
 <!--
 **AyushShahh/AyushShahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
