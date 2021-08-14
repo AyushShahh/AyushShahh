@@ -4,8 +4,8 @@
 I'm a high school student interested in science, technology, engineering and passionate about startups.
 
 Things I'm familiar with and also learning 🌱:
-- HTML | CSS | Bootstrap | JavaScript | C | Python
-- PyChram | Visual Studio Code | GitHub
+- HTML | CSS | Bootstrap | JavaScript | jQuery | C | Python
+- PyCharm | Visual Studio Code | GitHub
 - Google Cloud Platform | Netlify 
 
 Things I wish to learn or try in future:
@@ -20,6 +20,8 @@ Hobbies other than coding:
 - Studying (because I'm in high school)
 - Astronomy
 - Playing piano or singing
+- Football
+- Writing
 - Surf on internet
 - Doing random stuff
 - Brainstorming ideas or something
