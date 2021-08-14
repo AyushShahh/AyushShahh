@@ -15,6 +15,7 @@ Things I wish to learn in future:
 - Cloud technologies and Data science
 
 Hobbies other than coding:
+- Studying (because I'm in high school)
 - Astronomy
 - Playing piano or singing
 - Surf on internet
