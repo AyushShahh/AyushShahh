@@ -14,6 +14,7 @@ Things I wish to learn or try in future:
 - Making Andriod and desktop applications
 - Cloud technologies and Data science
 - IoT, working with robots and gadgets
+- Virtual and Augmented reality
 
 Hobbies other than coding:
 - Studying (because I'm in high school)
