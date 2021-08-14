@@ -8,11 +8,12 @@ Things I'm familiar with and also learning 🌱:
 - PyChram | Visual Studio Code | GitHub
 - Google Cloud Platform | Netlify 
 
-Things I wish to learn in future:
+Things I wish to learn or try in future:
 - Artificial Intelligence, Deep Learning, Machine learning
 - Backend Technologies
 - Making Andriod and desktop applications
 - Cloud technologies and Data science
+- IoT, working with robots and gadgets
 
 Hobbies other than coding:
 - Studying (because I'm in high school)
