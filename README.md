@@ -1,4 +1,4 @@
-# Hi, I'm Ayush
+# Hi, I'm Ayush🚀
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
 
 I'm a high school student interested in science, technology, engineering and passionate about startups.
@@ -8,7 +8,7 @@ Things I'm familiar with and also learning 🌱:
 - PyCharm | Visual Studio Code | GitHub
 - Google Cloud Platform | Netlify 
 
-Things I wish to learn or try in future:
+Things I wish to learn or try in future⚡:
 - Artificial Intelligence, Deep Learning, Machine learning
 - Backend Technologies
 - Making Andriod and desktop applications
@@ -16,16 +16,16 @@ Things I wish to learn or try in future:
 - IoT, working with robots and gadgets
 - Virtual and Augmented reality
 
-Hobbies other than coding:
+Hobbies other than coding✨:
 - Studying (because I'm in high school)
-- Astronomy
-- Playing piano or singing
-- Football
-- Writing
-- Surf on internet
-- Doing random stuff
-- Brainstorming ideas or something
-- Learning new things
+- Astronomy🌌🔭
+- Playing piano or singing🎹
+- Football⚽️🥅
+- Writing✍
+- Surf on internet🌐
+- Doing random stuff💬
+- Brainstorming ideas or something💡💭
+- Learning new things🔰
 
 ![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&theme=vision-friendly-dark)
 
