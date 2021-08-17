@@ -27,7 +27,7 @@ Hobbies other than coding ✨:
 - Brainstorming ideas or something 💡💭
 - Learning new things 🔰
 
-![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&theme=vision-friendly-dark)
+![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark)
 
