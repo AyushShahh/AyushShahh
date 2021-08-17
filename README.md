@@ -29,7 +29,7 @@ Hobbies other than coding ✨:
 
 ![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=90,620e1d,000000,000000,000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=90,430a14,000000,000000,000000)
 
 # Contact
 I don't like spams
