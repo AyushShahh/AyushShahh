@@ -29,11 +29,7 @@ Hobbies other than coding ✨:
 
 ![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40)
 
-<<<<<<< HEAD
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=90,2c070e,000000,000000,000000)
-=======
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark)
->>>>>>> parent of b35558a (docs feat: added gradient for lang card)
 
 # Contact
 I don't like spams
