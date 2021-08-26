@@ -1,7 +1,7 @@
 # Hi, I'm Ayush🚀
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Student;Techie;Amateur+programmer;Geek;Tinkerer;Aspiring+polymath;Wannabe+Entrepreneur;Future+Billionaire+%26+Philiantropist.;Thinking+out+of+the+box)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Student;Techie;Amateur+programmer;Geek;Tinkerer;Aspiring+polymath;Wannabe+Entrepreneur;Future+Billionaire+%26+Philiantropist.;Thinking+out+of+the+box)](https://git.io/typing-svg) <br>
 I'm a high school student interested in science, technology, engineering and passionate about startups.
 
 Things I'm familiar with and also learning 🌱:
