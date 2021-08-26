@@ -1,5 +1,4 @@
-## <p align="center">🛸</p>
-
+# <p align="center">🛸</p>
 ![banner gif](/assets/profile-banner.gif)
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
 
