@@ -1,12 +1,15 @@
 # Hi, I'm Ayush🚀
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Student;Techie;Amateur+programmer;Geek;Tinkerer;Aspiring+polymath;Wannabe+Entrepreneur;Future+Billionaire+%26+Philiantropist.;Thinking+out+of+the+box)](https://git.io/typing-svg)
 I'm a high school student interested in science, technology, engineering and passionate about startups.
 
 Things I'm familiar with and also learning 🌱:
 - HTML | CSS | Bootstrap | JavaScript | jQuery | C | Python
 - PyCharm | Visual Studio Code | GitHub
-- Google Cloud Platform | Netlify 
+- Google Cloud Platform | Netlify
+
+ I'm currently exploring new things in tech.
 
 Things I wish to learn or try in future ⚡:
 - Artificial Intelligence, Deep Learning, Machine learning
@@ -16,16 +19,22 @@ Things I wish to learn or try in future ⚡:
 - IoT, working with robots and gadgets
 - Virtual and Augmented reality
 
-Hobbies other than coding ✨:
+<details>
+<summary>Hobbies other than coding ✨</summary>
+
 - Studying (because I'm in high school)
 - Astronomy 🌌🔭
-- Playing piano or singing 🎹
+- Playing piano 🎹
 - Football ⚽️🥅
-- Writing ✍
+- Watching movies and playing video games 🎮
+- Writing ✍ and Reading
 - Surf on internet 🌐
 - Doing random stuff 💬
 - Brainstorming ideas or something 💡💭
 - Learning new things 🔰
+- etc.
+</details>
+<br>
 
 ![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true)
 
@@ -39,6 +48,8 @@ I don't like spams
 &nbsp; <a href="https://www.quora.com/profile/Ayush-Shah-133/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/50/000000/quora.png"/></a>
 &nbsp; <a href="https://www.clubhouse.com/@ayushshah_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluent/45/000000/so-so.png"/></a>
 &nbsp; <a href="https://www.discordapp.com/users/810944110046740491" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/46/000000/discord-new-logo.png"/></a>
+<br><br>
+<b><h2 align="center">⚡ Stay cool, Stay Awesome ⚡</h2></b>
 
 <!--
 **AyushShahh/AyushShahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
