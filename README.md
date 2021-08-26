@@ -21,7 +21,7 @@ Things I wish to learn or try in future ⚡:
 - Virtual and Augmented reality
 
 <details>
-<summary>Hobbies other than coding ✨</summary>
+<summary>Hobbies other than coding ✨:</summary>
 
 - Studying (because I'm in high school)
 - Astronomy 🌌🔭
