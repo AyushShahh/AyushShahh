@@ -45,6 +45,8 @@ Things I wish to learn or try in future ⚡:
 - IoT, working with robots and gadgets
 - Virtual and Augmented reality
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <details>
 <summary>Hobbies other than coding ✨:</summary>
 
@@ -63,13 +65,16 @@ Things I wish to learn or try in future ⚡:
 
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)&nbsp;
 ![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&include_all_commits=false&count_private=True&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true)
 </p>
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayushshah&layout=compact&hide=Text&theme=vision-friendly-dark&custom_title=Development%20in%20last%207%20days&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&redirect=true)
+
+## Random pun
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **AyushShahh/AyushShahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
