@@ -45,7 +45,7 @@ Things I wish to learn or try in future ⚡:
 - IoT, working with robots and gadgets
 - Virtual and Augmented reality
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <details>
 <summary>Hobbies other than coding ✨:</summary>
