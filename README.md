@@ -6,8 +6,8 @@
 &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/ayushshah__/" target="_blank" rel="noopener noreferrer"><img src="assets/png/instagram.png" height="30"/></a>
 &nbsp;&nbsp;&nbsp; <a href="https://www.quora.com/profile/Ayush-Shah-133/" target="_blank" rel="noopener noreferrer"><img src="assets/png/quora.png" height="30"/></a>
 &nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/mkxf4wwjr521oe9hjrvjbm4f6" target="_blank" rel="noopener noreferrer"><img src="assets/png/spotify.png" height="30"/></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Student;Techie;Amateur+programmer;Geek;Tinkerer;Aspiring+polymath;Wannabe+Entrepreneur;Future+Billionaire+%26+Philiantropist.;Thinking+out+of+the+box)](https://git.io/typing-svg)
+  
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Student;Techie;Amateur+programmer;Geek;Tinkerer;Aspiring+polymath;Wannabe+Entrepreneur;Future+Billionaire+%26+Philiantropist;Thinking+out+of+the+box)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true)
 
