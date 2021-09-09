@@ -11,7 +11,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true)
 
-I'm a high school student interested in science, technology, engineering and passionate about startups.
+I'm a high school student interested in science, technology, engineering and passionate about startups. I love all sorts of fun stuff like ███, ███ ██ and ████.
 
 Things I'm familiar with and also learning 🌱:
 - HTML | CSS | JavaScript | Python | C | Bootstrap | jQuery<br>
