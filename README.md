@@ -46,7 +46,11 @@ Things I wish to learn or try in future ⚡:
 - Cloud technologies and Data science
 - IoT, working with robots and gadgets
 - Virtual and Augmented reality
- 
+
+## Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api">
   </p>
