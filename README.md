@@ -68,7 +68,7 @@ Things I wish to learn or try in future ⚡:
 - Learning new things 🔰
 - etc.
 </details>
-<br>
+
 <p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)&nbsp;
