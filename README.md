@@ -51,10 +51,7 @@ Things I wish to learn or try in future ⚡:
 <!-- BLOG-POST-LIST:START -->
 - [Hide any type of information inside an image on your computer](https://ayush-shah.medium.com/hide-any-type-of-information-inside-an-image-on-your-computer-7e2ce715515b?source=rss-492ffe5f5baa------2)
 <!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api">
-  </p>
+<br>
 
 <details>
 <summary>Hobbies other than coding ✨:</summary>
@@ -71,7 +68,7 @@ Things I wish to learn or try in future ⚡:
 - Learning new things 🔰
 - etc.
 </details>
-
+<br>
 <p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)&nbsp;
