@@ -49,7 +49,7 @@ Things I wish to learn or try in future ⚡:
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hide any type of information inside an image on your computer](https://ayush-shah.medium.com/hide-any-type-of-information-inside-an-image-on-your-computer-7e2ce715515b?source=rss-492ffe5f5baa------2)
+- [Hide any type of information inside an image](https://ayush-shah.medium.com/hide-any-type-of-information-inside-an-image-on-your-computer-7e2ce715515b?source=rss-492ffe5f5baa------2)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
