@@ -17,25 +17,25 @@ I'm a high school student interested in science, technology, engineering and pas
 
 Things I'm familiar with and also learning 🌱:
 - HTML | CSS | JavaScript | Python | C | Bootstrap | jQuery<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&nbsp;&nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>&nbsp;&nbsp;
-<a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&nbsp;&nbsp;
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>&nbsp;&nbsp;
+<a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a>
 
 - Visual Studio Code | PyCharm | GitHub | Git<br>
-<a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></a>&nbsp;&nbsp;
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/about" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></a>
+<a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></a>&nbsp;&nbsp;
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/about" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></a>
 
 - Google Cloud Platform | Netlify | Heroku<br>
-<a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"></a>&nbsp;&nbsp;
-<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></a>&nbsp;&nbsp;
-<a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="25" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"></a>&nbsp;&nbsp;
+<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></a>&nbsp;&nbsp;
+<a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></a>
 
 I'm currently exploring new things in tech.
 
