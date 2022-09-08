@@ -1,19 +1,21 @@
 # <p align="center">🛸</p>
 ![banner gif](/assets/profile-banner.gif)
+
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
 <p align="left">
-<a href="https://twitter.com/ayushshah__" target="_blank" rel="noopener noreferrer"><img src="assets/png/twitter.png" height="30"/></a>  
-&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/ayushshah__/" target="_blank" rel="noopener noreferrer"><img src="assets/png/instagram.png" height="30"/></a>
-&nbsp;&nbsp;&nbsp; <a href="https://www.quora.com/profile/Ayush-Shah-133/" target="_blank" rel="noopener noreferrer"><img src="assets/png/quora.png" height="30"/></a>
-&nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/mkxf4wwjr521oe9hjrvjbm4f6" target="_blank" rel="noopener noreferrer"><img src="assets/png/spotify.png" height="30"/></a>
-&nbsp;&nbsp;&nbsp; <a href="https://ayush-shah.medium.com" target="_blank" rel="noopener noreferrer"><img src="assets/png/medium.png" height="30"/></a>
+<a href="https://twitter.com/ayushshah__" target="_blank" rel="noopener noreferrer"><img src="assets/png/twitter.png" height=35"/></a>  
+&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/ayushshah__/" target="_blank" rel="noopener noreferrer"><img src="assets/png/instagram.png" height="35"/></a>
+&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ayushshahhh/" target="_blank" rel="noopener noreferrer"><img src="assets/png/linkedin.png" height="35"/></a>
+&nbsp;&nbsp;&nbsp; <a href="https://www.quora.com/profile/Ayush-Shah-133/" target="_blank" rel="noopener noreferrer"><img src="assets/png/quora.png" height="35"/></a>
+&nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/mkxf4wwjr521oe9hjrvjbm4f6" target="_blank" rel="noopener noreferrer"><img src="assets/png/spotify.png" height="35"/></a>
+&nbsp;&nbsp;&nbsp; <a href="https://ayush-shah.medium.com" target="_blank" rel="noopener noreferrer"><img src="assets/png/medium.png" height="35"/></a>
 </p>
   
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Student;Techie;Amateur+programmer;Geek;Tinkerer;Aspiring+polymath;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philiantropist;Thinking+out+of+the+box)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Aspiring+Computer+Scientist;Techie;Amateur+programmer;Geek;Tinkerer;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philiantropist;Thinking+out+of+the+box)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true)
 
-I'm a high school student interested in science, technology, engineering and passionate about startups.
+I live for tech, science and enigneering. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.
 
 Things I'm familiar with and also learning 🌱:
 - HTML | CSS | JavaScript | Python | C | Bootstrap | jQuery<br>
@@ -56,7 +58,6 @@ Things I wish to learn or try in future ⚡:
 <details>
 <summary>Hobbies other than coding ✨:</summary>
 
-- Studying (because I'm in high school)
 - Astronomy 🌌🔭
 - Playing piano 🎹
 - Football ⚽️🥅
@@ -69,6 +70,7 @@ Things I wish to learn or try in future ⚡:
 - etc.
 </details>
 
+## Statistics 📈
 <p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)
