@@ -1,4 +1,6 @@
 # <p align="center">🛸</p>
+
+[![@ash's Holopin board](https://holopin.io/api/user/board?user=ash)](https://holopin.io/@ash)
 ![banner gif](/assets/profile-banner.gif)
 
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
@@ -11,7 +13,7 @@
 &nbsp;&nbsp;&nbsp; <a href="https://ayush-shah.medium.com" target="_blank" rel="noopener noreferrer"><img src="assets/png/medium.png" height="35"/></a>
 </p>
   
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Aspiring+Computer+Scientist;Techie;Amateur+programmer;Geek;Tinkerer;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philiantropist;Thinking+out+of+the+box)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Aspiring+Computer+Scientist;Techie;Amateur+programmer;Geek;Tinkerer;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philanthropist;Thinking+out+of+the+box)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true)
 
