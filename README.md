@@ -13,21 +13,22 @@
 &nbsp;&nbsp;&nbsp; <a href="https://ayush-shah.medium.com" target="_blank" rel="noopener noreferrer"><img src="assets/png/medium.png" height="35"/></a>
 </p>
   
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Aspiring+Computer+Scientist;Techie;Amateur+programmer;Geek;Tinkerer;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philanthropist;Thinking+out+of+the+box)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Aspiring+Computer+Scientist;Techie;Amateur+programmer;Open+Source;Geek;Tinkerer;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philanthropist;Thinking+out+of+the+box)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true)
+<img align="right" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true">
 
-I live for tech, science and enigneering. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.
+I live for tech, science and enigneering. I love open source. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.
 
 Things I'm familiar with and also learning 🌱:
-- HTML | CSS | JavaScript | Python | C | Bootstrap | jQuery<br>
+- HTML | CSS | JavaScript | Python | C | Bootstrap | jQuery | Flask | SQL<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>&nbsp;&nbsp;
-<a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a>
+<a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
 
 - Visual Studio Code | PyCharm | GitHub | Git<br>
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></a>&nbsp;&nbsp;
@@ -60,25 +61,21 @@ Things I wish to learn or try in future ⚡:
 <details>
 <summary>Hobbies other than coding ✨:</summary>
 
-- Astronomy 🌌🔭
-- Playing piano 🎹
-- Football ⚽️🥅
-- Watching movies and playing video games 🎮
-- Writing ✍ and Reading
-- Surf on internet 🌐
-- Doing random stuff 💬
-- Brainstorming ideas or something 💡💭
-- Learning new things 🔰
-- etc.
+- Astronomy
+- Playing piano
+- Football
+- Writing and weading
+- Surf on internet
+- Brainstorming ideas or something
+- Learning new things
+- Chess
 </details>
 
 ## Statistics 📈
-<p align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)
-
-![Ayush Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true)
-</p>
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true" />
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true" />
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayushshah&layout=compact&hide=Text&theme=vision-friendly-dark&custom_title=Development%20in%20last%207%20days&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true)
 
