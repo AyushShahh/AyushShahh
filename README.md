@@ -37,11 +37,12 @@ Things I'm familiar with and also learning 🌱:
 <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></a>
 
-- Google Cloud Platform | Netlify | Heroku<br>
+- Google Cloud Platform | Netlify | Heroku | Vercel<br>
 <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png"></a>&nbsp;&nbsp;
 <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/f23f0ddbe494d51a2a8543f46bbe3ede37e5c609/topics/netlify/netlify.png"></a>&nbsp;&nbsp;
-<a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></a>
-
+<a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></a>&nbsp;&nbsp;
+<a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></a>
+  
 I'm currently exploring new things in tech.
 
 Things I wish to learn or try in future ⚡:
