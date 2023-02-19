@@ -65,7 +65,7 @@ Things I wish to learn or try in future ⚡:
 - Astronomy
 - Playing piano
 - Football
-- Writing and weading
+- Writing and reading
 - Surf on internet
 - Brainstorming ideas or something
 - Learning new things
