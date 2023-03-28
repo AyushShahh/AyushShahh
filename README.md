@@ -17,7 +17,7 @@
 
 <img align="right" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true">
 
-I live for tech, science and enigneering. I love open source. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.
+I live for tech, science and enigneering. I love open source. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.<br>My perfect day is incomplete without a cup of coffee or two :)
 
 Things I'm familiar with and also learning 🌱:
 - HTML | CSS | JavaScript | Python | C | Bootstrap | jQuery | Flask | SQL<br>
