@@ -10,14 +10,14 @@
 &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/ayushshahhh/" target="_blank" rel="noopener noreferrer"><img src="assets/png/linkedin.png" height="35"/></a>
 &nbsp;&nbsp;&nbsp; <a href="https://www.quora.com/profile/Ayush-Shah-133/" target="_blank" rel="noopener noreferrer"><img src="assets/png/quora.png" height="35"/></a>
 &nbsp;&nbsp;&nbsp; <a href="https://open.spotify.com/user/mkxf4wwjr521oe9hjrvjbm4f6" target="_blank" rel="noopener noreferrer"><img src="assets/png/spotify.png" height="35"/></a>
-&nbsp;&nbsp;&nbsp; <a href="https://ayush-shah.medium.com" target="_blank" rel="noopener noreferrer"><img src="assets/png/medium.png" height="35"/></a>
+&nbsp;&nbsp;&nbsp; <a href="https://ayushah.medium.com" target="_blank" rel="noopener noreferrer"><img src="assets/png/medium.png" height="35"/></a>
 </p>
   
 ![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Aspiring+Computer+Scientist;Techie;Amateur+programmer;Open+Source;Geek;Tinkerer;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philanthropist;Thinking+out+of+the+box)
 
 <img align="right" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true">
 
-I live for tech, science and enigneering. I love open source. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.<br>My perfect day is incomplete without a cup of coffee or two :)
+I live for tech, science and engineering. I love open source. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.<br>My perfect day is incomplete without a cup of coffee or two :)
 
 Things I'm familiar with and also learning 🌱:
 - HTML | CSS | JavaScript | Python | C | Bootstrap | jQuery | Flask | SQL<br>
@@ -43,11 +43,9 @@ Things I'm familiar with and also learning 🌱:
 <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></a>&nbsp;&nbsp;
 <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></a>
   
-I'm currently exploring new things in tech.
+I'm currently exploring new things in tech, particularly focusing on Artificial Intelligence, Machine Learning and Natural Language Processing.
 
 Things I wish to learn or try in future ⚡:
-- Artificial Intelligence, Deep Learning, Machine learning
-- Backend Technologies
 - Making Andriod and desktop applications
 - Cloud technologies and Data science
 - IoT, working with robots and gadgets
@@ -55,22 +53,8 @@ Things I wish to learn or try in future ⚡:
 
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hide any type of information inside an image](https://ayush-shah.medium.com/hide-any-type-of-information-inside-an-image-on-your-computer-7e2ce715515b?source=rss-492ffe5f5baa------2)
+- [Hide any type of information inside an image](https://ayushah.medium.com/hide-any-type-of-information-inside-an-image-on-your-computer-7e2ce715515b?source=rss-492ffe5f5baa------2)
 <!-- BLOG-POST-LIST:END -->
-<br>
-
-<details>
-<summary>Hobbies other than coding ✨:</summary>
-
-- Astronomy
-- Playing piano
-- Football
-- Writing and reading
-- Surf on internet
-- Brainstorming ideas or something
-- Learning new things
-- Chess
-</details>
 
 ## Statistics 📈
   
