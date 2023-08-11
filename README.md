@@ -52,9 +52,8 @@ Things I wish to learn or try in future ⚡:
 - Virtual and Augmented reality
 
 ## Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Hide any type of information inside an image](https://ayushah.medium.com/hide-any-type-of-information-inside-an-image-on-your-computer-7e2ce715515b?source=rss-492ffe5f5baa------2)
-<!-- BLOG-POST-LIST:END -->
+- [I trained a Neural Network to predict final exam scores of my classmates](https://ayushah.medium.com/i-trained-a-neural-network-to-predict-final-exam-scores-of-my-classmates-dab1d979a5c4)
+- [Hide any type of information inside an image](https://ayushah.medium.com/hide-any-type-of-information-inside-an-image-on-your-computer-7e2ce715515b)
 
 ## Statistics 📈
   
