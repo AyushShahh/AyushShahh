@@ -44,7 +44,7 @@ Things I'm familiar with and also learning 🌱:
 <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></a>&nbsp;&nbsp;
 <a href="https://www.heroku.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png"></a>
   
-I'm currently exploring new things in tech, particularly focusing on Artificial Intelligence, Machine Learning and Natural Language Processing.
+I'm currently exploring new things in tech, particularly focusing on Artificial Intelligence, Machine Learning and Deep Learning.
 
 Things I wish to learn or try in future ⚡:
 - Making Andriod and desktop applications
