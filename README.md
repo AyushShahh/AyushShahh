@@ -1,6 +1,6 @@
 # <p align="center">🛸</p>
 
-[![@ash's Holopin board](https://holopin.io/api/user/board?user=ash)](https://holopin.io/@ash)
+[![@ash's Holopin board](https://holopin.me/ash)](https://holopin.io/@ash)
 ![banner gif](/assets/profile-banner.gif)
 
 ![](https://komarev.com/ghpvc/?username=AyushShahh&color=dc143c)
@@ -15,7 +15,7 @@
   
 ![Typing words](https://readme-typing-svg.herokuapp.com?font=Oswald&color=FF9F00&size=25&lines=Aspiring+Computer+Scientist;Techie;Amateur+programmer;Open+Source;Geek;Tinkerer;Wannabe+Entrepreneur;To+be+Billionaire+%26+Philanthropist;Thinking+out+of+the+box)
 
-<img align="right" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushShahh&theme=highcontrast&hide_border=true">
+<img align="right" alt="Github Streak" src="https://streak-stats.demolab.com/?user=AyushShahh&theme=highcontrast&hide_border=true">
 
 I live for tech, science and engineering. I love open source. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.<br>My perfect day is incomplete without a cup of coffee or two :)
 
