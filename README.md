@@ -20,7 +20,7 @@
 I live for tech, science and engineering. I love open source. I'm always curious to learn something new. I'm quite geeky, but that's my passion. I want to make meaningful things, things that can help people and someday, I plan to start my own tech company.<br>My perfect day is incomplete without a cup of coffee or two :)
 
 Things I'm familiar with and also learning 🌱:
-- HTML | CSS | JavaScript | Python | C | C++ | Bootstrap | jQuery | Flask | SQL<br>
+- HTML | CSS | JavaScript | Python | C | C++ | Bootstrap | jQuery | Flask | SQL | Django<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>&nbsp;&nbsp;
@@ -29,7 +29,8 @@ Things I'm familiar with and also learning 🌱:
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png"></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a>&nbsp;&nbsp;
 <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a>&nbsp;&nbsp;
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/Django_(web_framework)" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></a>
 
 - Visual Studio Code | PyCharm | GitHub | Git<br>
 <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer"><img height="20" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></a>&nbsp;&nbsp;
@@ -60,7 +61,7 @@ Things I wish to learn or try in future ⚡:
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true" />
   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true" />
 <br>
   
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayushshah&layout=compact&hide=Text&theme=vision-friendly-dark&custom_title=Development%20in%20last%207%20days&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true&range=last_7_days)
