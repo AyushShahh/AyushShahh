@@ -66,7 +66,7 @@ Things I wish to learn or try in future ⚡:
   
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayushshah&layout=compact&hide=Text&theme=vision-friendly-dark&custom_title=Development%20in%20last%207%20days&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true&range=last_7_days)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&redirect=true)
 
 ## Random pun
 ![Jokes Card](https://readme-jokes.vercel.app/api)
