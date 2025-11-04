@@ -104,8 +104,8 @@ Always exploring cool stuff.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&redirect=true)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> &nbsp;
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=gotham" />
+[Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[Pun](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
 
 <!--
 **AyushShahh/AyushShahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
