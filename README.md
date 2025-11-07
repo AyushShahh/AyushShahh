@@ -95,9 +95,9 @@ Always exploring cool stuff.
 
 ## Statistics 📈
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushShahh&langs_count=10&layout=compact&theme=vision-friendly-dark&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true&cache_seconds=21600" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushShahh&show_icons=true&count_private=true&theme=vision-friendly-dark&bg_color=0,000000,000000,130F40&hide_border=true&include_all_commits=true&cache_seconds=21600" />
 <br>
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayushshah&layout=compact&hide=Text&theme=vision-friendly-dark&custom_title=Development%20in%20last%207%20days&bg_color=70,000000,000000,000000,000000,000000,130F40&hide_border=true&range=last_7_days)
@@ -105,7 +105,6 @@ Always exploring cool stuff.
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=mkxf4wwjr521oe9hjrvjbm4f6&redirect=true)
 
 ![Pun](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
-
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--
